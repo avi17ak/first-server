@@ -1,0 +1,226 @@
+[
+  {
+    "position": "Goalkeeper",
+    "name": "Alisson Becker",
+    "age": 32,
+    "appearances": 299,
+    "goals": 1,
+    "assists": 3
+  },
+  {
+    "position": "Goalkeeper",
+    "name": "Giorgi Mamardashvili",
+    "age": 24,
+    "appearances": 0,
+    "goals": 0,
+    "assists": 0
+  },
+  {
+    "position": "Goalkeeper",
+    "name": "Freddie Woodman",
+    "age": 28,
+    "appearances": 0,
+    "goals": 0,
+    "assists": 0
+  },
+  {
+    "position": "Goalkeeper",
+    "name": "Ármin Pécsi",
+    "age": 20,
+    "appearances": 0,
+    "goals": 0,
+    "assists": 0
+  },
+  {
+    "position": "Defender",
+    "name": "Joe Gomez",
+    "age": 28,
+    "appearances": 241,
+    "goals": 0,
+    "assists": 9
+  },
+  {
+    "position": "Defender",
+    "name": "Virgil van Dijk",
+    "age": 34,
+    "appearances": 320,
+    "goals": 28,
+    "assists": 10
+  },
+  {
+    "position": "Defender",
+    "name": "Ibrahima Konaté",
+    "age": 26,
+    "appearances": 133,
+    "goals": 5,
+    "assists": 4
+  },
+  {
+    "position": "Defender",
+    "name": "Milos Kerkez",
+    "age": 21,
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0
+  },
+  {
+    "position": "Defender",
+    "name": "Conor Bradley",
+    "age": 22,
+    "appearances": 57,
+    "goals": 1,
+    "assists": 11
+  },
+  {
+    "position": "Defender",
+    "name": "Kostas Tsimikas",
+    "age": 29,
+    "appearances": 115,
+    "goals": 0,
+    "assists": 18
+  },
+  {
+    "position": "Defender",
+    "name": "Andy Robertson",
+    "age": 31,
+    "appearances": 343,
+    "goals": 11,
+    "assists": 67
+  },
+  {
+    "position": "Defender",
+    "name": "Jeremie Frimpong",
+    "age": 24,
+    "appearances": 1,
+    "goals": 1,
+    "assists": 0
+  },
+  {
+    "position": "Defender",
+    "name": "Rhys Williams",
+    "age": 24,
+    "appearances": 19,
+    "goals": 0,
+    "assists": 0
+  },
+  {
+    "position": "Defender",
+    "name": "Calvin Ramsay",
+    "age": 22,
+    "appearances": 2,
+    "goals": 0,
+    "assists": 0
+  },
+  {
+    "position": "Midfielder",
+    "name": "Wataru Endo",
+    "age": 32,
+    "appearances": 76,
+    "goals": 2,
+    "assists": 1
+  },
+  {
+    "position": "Midfielder",
+    "name": "Dominik Szoboszlai",
+    "age": 24,
+    "appearances": 95,
+    "goals": 15,
+    "assists": 13
+  },
+  {
+    "position": "Midfielder",
+    "name": "Alexis Mac Allister",
+    "age": 26,
+    "appearances": 96,
+    "goals": 14,
+    "assists": 13
+  },
+  {
+    "position": "Midfielder",
+    "name": "Curtis Jones",
+    "age": 24,
+    "appearances": 180,
+    "goals": 19,
+    "assists": 19
+  },
+  {
+    "position": "Midfielder",
+    "name": "Harvey Elliott",
+    "age": 22,
+    "appearances": 148,
+    "goals": 15,
+    "assists": 17
+  },
+  {
+    "position": "Midfielder",
+    "name": "Ryan Gravenberch",
+    "age": 23,
+    "appearances": 87,
+    "goals": 4,
+    "assists": 6
+  },
+  {
+    "position": "Midfielder",
+    "name": "Trey Nyoni",
+    "age": 18,
+    "appearances": 6,
+    "goals": 0,
+    "assists": 1
+  },
+  {
+    "position": "Midfielder",
+    "name": "Stefan Bajcetic",
+    "age": 20,
+    "appearances": 22,
+    "goals": 1,
+    "assists": 0
+  },
+  {
+    "position": "Forward",
+    "name": "Florian Wirtz",
+    "age": 22,
+    "appearances": 1,
+    "goals": 0,
+    "assists": 1
+  },
+  {
+    "position": "Forward",
+    "name": "Mohamed Salah",
+    "age": 33,
+    "appearances": 402,
+    "goals": 245,
+    "assists": 110
+  },
+  {
+    "position": "Forward",
+    "name": "Federico Chiesa",
+    "age": 27,
+    "appearances": 14,
+    "goals": 2,
+    "assists": 1
+  },
+  {
+    "position": "Forward",
+    "name": "Cody Gakpo",
+    "age": 26,
+    "appearances": 129,
+    "goals": 41,
+    "assists": 14
+  },
+  {
+    "position": "Forward",
+    "name": "Hugo Ekitike",
+    "age": 23,
+    "appearances": 1,
+    "goals": 1,
+    "assists": 0
+  },
+  {
+    "position": "Forward",
+    "name": "Ben Doak",
+    "age": 19,
+    "appearances": 10,
+    "goals": 0,
+    "assists": 0
+  }
+]

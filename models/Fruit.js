@@ -11,7 +11,7 @@ class Fruit {
   }
 
   static showAll = () => {
-    return fruits.map((fruit) => new Fruit(fruit));
+    return fruits.map((fruit) => new Fruit(fruit[0]));
   };
 
   static show = (name) => {
